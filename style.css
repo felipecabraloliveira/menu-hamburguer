@@ -196,10 +196,6 @@ a:hover {
     z-index: 1;
 }
 
-#toggle:checked+.container {
-    border: yellow 20px solid;
-}
-
 #toggle:checked~.menu-itens {
     visibility: visible;
     opacity: 1;
@@ -216,7 +212,6 @@ a:hover {
     justify-content: space-evenly;
     align-items: center;
     margin: 3rem 0;
-
 }
 
 
@@ -225,7 +220,6 @@ a:hover {
     align-items: center;
     justify-content: space-evenly;
     width: 90%;
-    border: blue 1px solid;
 }
 
 .card {
@@ -243,7 +237,6 @@ a:hover {
     color: white;
     cursor: pointer;
     transition: 0.3s;
-    border: green 10px solid;
 }
 
 .card-text {
