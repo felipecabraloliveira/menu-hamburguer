@@ -29,7 +29,7 @@ Link: https://felipecabraloliveira.github.io/menu-hamburguer/
 
 ### Página
 
-**Banner inicial com efeito Parallax. **
+**Banner inicial com efeito Parallax.**
 
 ![img-01](assets/img/tela-01.png)
 
